@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608139122 source:c:\users\kristóf\desktop\programozás\joo_beadando\progibeadando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1608139199 c:\users\kristóf\desktop\programozás\joo_beadando\progibeadando\functions.h
+
+1608139122 source:c:\users\kristóf\desktop\programozás\joo_beadando\progibeadando_horvathkristof_p6kvxf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1608140144 c:\users\kristóf\desktop\programozás\joo_beadando\progibeadando_horvathkristof_p6kvxf\functions.h
+

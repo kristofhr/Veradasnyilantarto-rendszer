@@ -1,0 +1,7 @@
+1	Pablo Escobar	A+		pablo@escobar.com	12				2019.10.14.
+2	Nagy Ervin	0		nagy@ervin.com		3				2018.04.28.
+3	Al Pacino	AB0		alpacino@alpacino.com	2				2020.03.15.
+4	Ebéd Elek	B+		ebed@elek.com		1				2020.06.28.
+5	Vak Béla	0		vak@bela.com		6				2017.12.06.
+6	Vitéz János	AB		vitez@janos.com		4				2020.08.24.
+7	Morgan Freeman	B+		morgan@freeman.com	7				2020.09.09.

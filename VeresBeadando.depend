@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608131757 source:c:\users\kristóf\desktop\programozás\progibeadando\veresbeadando\functions.c
+	<stdio.h>
+	"functions.h"
+
+1608132678 source:c:\users\kristóf\desktop\programozás\progibeadando\veresbeadando\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1608126465 c:\users\kristóf\desktop\programozás\progibeadando\veresbeadando\functions.h
+
+1608132495 c:\users\kristóf\desktop\programozás\progibeadando\veresbeadando\fuggvenyek.h
+
